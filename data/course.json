@@ -1,0 +1,34 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Finance"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Financial Economics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "a7075ffe-0644-377b-f27e-9d377e4c5867",
+      "c72149c0-35fb-f616-653c-bd8e8b0f1c2e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Finance Theory II",
+  "course_description": "The objective of this course is to learn the financial tools needed to make good business decisions. The course presents the basic insights of corporate finance theory, but emphasizes the application of theory to real business decisions. Each session involves class discussion, some centered on lectures and others around business cases.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.402",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Exams with Solutions",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
